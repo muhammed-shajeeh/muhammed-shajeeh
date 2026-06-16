@@ -9,10 +9,7 @@ I'm a Computer Science Engineering student at KMCT Institute of Technology and M
 ## 🚀 About Me
 
 - 🎓 B.Tech in Computer Science and Engineering (Expected 2027)
-- 💻 Full Stack Web Developer
-- 🌱 Currently learning advanced MERN Stack development
 - 🔍 Interested in Software Engineering, Backend Development, and Databases
-- 📱 Building real-world applications using modern web technologies
 - 🎯 Seeking internship and entry-level software development opportunities
 
 ---
@@ -58,24 +55,6 @@ A MERN Stack based Hostel Management System designed for multi-hostel institutio
 - Leave and Complaint Management
 - Parent Portal
 - Secure JWT Authentication
-
-#### Tech Used
-React.js • Node.js • Express.js • MongoDB Atlas • Socket.IO • JWT • Razorpay
-
----
-
-## 📜 Certifications
-
-- JavaScript Programming Essentials – IBM
-- Databases and SQL for Data Science with Python – IBM
-- Introduction to Software Engineering – IBM
-- Introduction to HTML, CSS and JavaScript – IBM
-- Getting Started with Git and GitHub – IBM
-- Programming for Everybody (Python) – University of Michigan
-- Python Zero to Hero – Udemy
-- AI Bootcamp – NIELIT Calicut
-
----
 
 ## 📫 Connect With Me
 
